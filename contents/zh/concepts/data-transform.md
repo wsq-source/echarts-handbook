@@ -503,7 +503,7 @@ option = {
       transform: {
         type: 'sort',
         // 按分数排序
-        config: { dimension: 'score', order: 'asc' }
+        config: { dimension: 'score', order: 'desc' }
       }
     }
   ],
